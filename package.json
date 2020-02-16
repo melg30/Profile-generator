@@ -1,16 +1,16 @@
 {
   "name": "profilegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Profile gen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melg30/Profile-generator"
+    "url": "git+https://github.com/melg30/Profile-generator.git"
   },
-  "author": "",
+  "author": "Mel Garza",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/melg30/Profile-generator/issues"
@@ -20,8 +20,10 @@
     "axios": "^0.19.1",
     "bootstrap": "^4.4.1",
     "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0",
     "inquirer": "^7.0.3",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0"
-  }
+  },
+  "devDependencies": {}
 }
